@@ -1,0 +1,4 @@
+baseurl = "https://hamradioelectronics.com/"
+languageCode = "en-us"
+title = "Ham Radio Electronics"
+theme = "hack"
