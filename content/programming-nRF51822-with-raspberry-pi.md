@@ -3,6 +3,9 @@ date = "2016-12-18T21:29:57+01:00"
 title = "Programming nRF51822 with a Raspberry Pi"
 
 +++
+
+![nRF51822 pinout](/img/nRF51822-board-pinout.jpg "Board pintout as seen from TOP")
+
 On https://chisight.wordpress.com/2016/03/22/openocd-for-programming-nrf51822-via-nothing-but-wires-and-a-raspberry-pi/ there is a short tutorial about programming the nRF51822 with a raspberry pi. Here's what I did based on this tutorial.
 More info about using the Raspberry Pi as a JTAG/SWD device here: https://movr0.com/2016/09/02/use-raspberry-pi-23-as-a-jtagswd-adapter/
 
