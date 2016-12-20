@@ -59,7 +59,7 @@ hexdump -s4 -n4 -e '"0x" 4/1 "%02X""\n"" "' /proc/device-tree/soc/ranges
 
 Also check that the speed of your CPU is the default 700Mhz for the Pi 1 (no overclocking!).
 
-Now connect the following lines between the Raspberry Pi and the nRF51822 (also see https://www.raspberrypi.org/documentation/usage/gpio/):
+Now connect the following lines between the Raspberry Pi and the nRF51822 (also see https://www.raspberrypi.org/documentation/usage/gpio/ ):
 
 | Raspberry Pi     | nRF51822 |
 |------------------|----------|
