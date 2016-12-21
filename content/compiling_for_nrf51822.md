@@ -24,3 +24,11 @@ heap vs. stack: http://gribblelab.org/CBootcamp/7_Memory_Stack_vs_Heap.html
 http://stackoverflow.com/questions/2308751/what-is-a-memory-heap
 
 https://en.wikipedia.org/wiki/Memory_management#HEAP
+
+# embedded c tutorials
+https://mail.google.com/mail/u/0/#inbox/15920642ea03eb9a
+https://blog.udemy.com/embedded-c-tutorial/
+https://www.udemy.com/certificate-program-in-introduction-to-microprocessors/?tc=blog.embeddedctutorial&utm_source=blog&utm_medium=udemyads&utm_content=post135834&utm_campaign=content-marketing-blog&xref=blog
+http://www.embedded.com/electrical-engineer-community/general/4402974/Free-MIT-online-C-programming-course
+https://www.tutorialspoint.com/embedded_systems/index.htm
+http://www.learn-c.com/
