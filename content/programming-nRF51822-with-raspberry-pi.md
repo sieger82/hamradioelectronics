@@ -8,8 +8,8 @@ On https://chisight.wordpress.com/2016/03/22/openocd-for-programming-nrf51822-vi
 More info about using the Raspberry Pi as a JTAG/SWD device here: https://movr0.com/2016/09/02/use-raspberry-pi-23-as-a-jtagswd-adapter/
 
 Interesting links: 
- * http://sysprogs.com/VisualKernel/tutorials/raspberry/jtagsetup/ (debugging the raspberry pi using a jtag cable)
- * base address info: https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=142439
+  * http://sysprogs.com/VisualKernel/tutorials/raspberry/jtagsetup/ (debugging the raspberry pi using a jtag cable)
+  * base address info: https://www.raspberrypi.org/forums/viewtopic.php?f=29&t=142439
 
 The version of OpenOCD packaged with Raspbian is too old (v0.18) and doesn't have the bcm2835gpio enabled.
 
