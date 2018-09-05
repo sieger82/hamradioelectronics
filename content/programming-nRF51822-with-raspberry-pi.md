@@ -94,3 +94,4 @@ Finally write something to the nRF51822. While in the telnet session and assumin
 ```bash
 halt; nrf51 mass_erase; sleep 500; flash write_image /home/pi/softdevice.hex 0; flash write_image /home/pi/ble_app_proximity.hex 0; verify_image /home/pi/softdevice.hex 0; verify_image /home/pi/ble_app_proximity.hex 0; reset run
 ```
+   
