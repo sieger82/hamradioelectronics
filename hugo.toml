@@ -1,4 +1,7 @@
 baseurl = "https://boxer-cements-51822.netlify.com/"
-languageCode = "en-us"
+locale = "en-us"
 title = "Ham Radio Electronics"
 theme = "hack"
+
+[markup.highlight]
+  style = "friendly"
