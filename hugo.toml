@@ -1,4 +1,4 @@
-baseurl = "https://www.hamradioelectronics.com/"
+baseurl = "https://hamradioelectronics.com/"
 locale = "en-us"
 title = "Ham Radio Electronics"
 theme = "hack"
